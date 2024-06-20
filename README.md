@@ -1,1 +1,1 @@
-# cstudy
+# I hate BaekJoon
